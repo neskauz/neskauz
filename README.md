@@ -1,4 +1,4 @@
-![NeskauZ](./assets/banner.png)
+![NeskauZ](./Banner%20tecnol%C3%B3gico%20futurista%20NeskauZ.png)
 
 
 # Olá! Eu sou Neskauz 👋
