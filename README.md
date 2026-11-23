@@ -9,7 +9,7 @@ Sou estudante e trabalho na area de tecnologia e estou em constante evolução, 
 Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
