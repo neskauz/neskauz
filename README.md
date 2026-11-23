@@ -3,6 +3,12 @@
 
 # Olá! Eu sou Neskauz 👋
 
+IT Support | Infrastructure | Networking | Cybersecurity | AI
+
+
+Sou estudante e trabalho na area de tecnologia e estou em constante evolução, com interesse em desenvolvimento de software, infraestrutura, redes de computadores e segurança da informação.
+
+Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
 ### 💻 Desenvolvimento
 - HTML, CSS e JavaScript
@@ -24,10 +30,6 @@
 - Cisco Packet Tracer
 - AWS
 
-
-Sou estudante e trabalho na area de tecnologia e estou em constante evolução, com interesse em desenvolvimento de software, infraestrutura, redes de computadores e segurança da informação.
-
-Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
 
 ## 🛠️ Tecnologias e ferramentas
