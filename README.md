@@ -26,7 +26,7 @@ Tenho experiência com suporte técnico e infraestrutura, além de buscar consta
 ### VIBES — Rede Social
 Rede social desenvolvida com HTML, CSS e JavaScript, com feed interativo, publicações, curtidas, comentários e perfis.
 
-[Ver projeto no GitHub](https://github.com/neskauz/vibes-social)
+🌐 [Acessar demonstração online](https://neskauz.github.io/vibes-social/)
 
 ## 📚 Atualmente estudando e desenvolvendo conhecimentos
 
