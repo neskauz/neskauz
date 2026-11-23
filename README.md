@@ -1,3 +1,6 @@
+![NeskauZ](./assets/banner.png)
+
+
 # Olá! Eu sou Neskauz 👋
 
 ### IT Support | Infrastructure | Networking | Cybersecurity | AI
