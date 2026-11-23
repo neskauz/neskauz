@@ -3,7 +3,27 @@
 
 # Olá! Eu sou Neskauz 👋
 
-### IT Support | Infrastructure | Networking | Cybersecurity | AI
+
+### 💻 Desenvolvimento
+- HTML, CSS e JavaScript
+
+### 🔐 Cibersegurança
+- Kali Linux
+- Fundamentos de segurança da informação
+- Análise de vulnerabilidades em laboratório
+
+### 🌐 Infraestrutura e Redes
+- Redes de computadores
+- Configuração de equipamentos de rede
+- Administração de servidores
+- Windows e Linux
+
+### ⚙️ Ferramentas
+- Git e GitHub
+- VS Code
+- Cisco Packet Tracer
+- AWS
+
 
 Sou estudante e trabalho na area de tecnologia e estou em constante evolução, com interesse em desenvolvimento de software, infraestrutura, redes de computadores e segurança da informação.
 
