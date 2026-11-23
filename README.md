@@ -52,9 +52,11 @@ Rede social desenvolvida com HTML, CSS e JavaScript, com feed interativo, public
 
 
 
-## 📫 Contato
+## 📬 Vamos nos conectar?
 
-[GitHub](https://github.com/neskauz)
+[![GitHub](https://img.shields.io/badge/GitHub-neskauz-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neskauz)
+
+[![Email](https://img.shields.io/badge/Email-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neskauz.tech@gmail.com)
 <!--
 **neskauz/neskauz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
