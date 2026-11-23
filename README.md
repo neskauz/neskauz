@@ -8,27 +8,6 @@ Sou estudante e trabalho na area de tecnologia e estou em constante evolução, 
 
 Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
-### 💻 Desenvolvimento
-- HTML, CSS e JavaScript
-
-### 🔐 Cibersegurança
-- Kali Linux
-- Fundamentos de segurança da informação
-- Análise de vulnerabilidades em laboratório
-
-### 🌐 Infraestrutura e Redes
-- Redes de computadores
-- Configuração de equipamentos de rede
-- Administração de servidores
-- Windows e Linux
-
-### ⚙️ Ferramentas
-- Git e GitHub
-- VS Code
-- Cisco Packet Tracer
-- AWS
-
-
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -51,20 +30,26 @@ Rede social desenvolvida com HTML, CSS e JavaScript, com feed interativo, public
 
 ## 📚 Atualmente estudando e desenvolvendo conhecimentos
 
-- Cibersegurança e Ethical Hacking
-- Segurança ofensiva e defensiva
-- Análise de vulnerabilidades e malware
-- Redes de computadores e protocolos
-- Administração de servidores Linux e Windows
-- Infraestrutura de TI
-- Virtualização e ambientes de laboratório
-- Computação em nuvem (AWS)
-- Desenvolvimento Web (HTML, CSS e JavaScript)
-- Java e Programação Orientada a Objetos
-- Automação e scripts
+### 💻 Desenvolvimento
+- HTML, CSS e JavaScript
+
+### 🔐 Cibersegurança
+- Kali Linux
+- Fundamentos de segurança da informação
+- Análise de vulnerabilidades em laboratório
+
+### 🌐 Infraestrutura e Redes
+- Redes de computadores
+- Configuração de equipamentos de rede
+- Administração de servidores
+- Windows e Linux
+
+### ⚙️ Ferramentas
 - Git e GitHub
+- VS Code
 - Cisco Packet Tracer
-- Inteligência Artificial e agentes de IA
+- AWS
+
 
 
 ## 📫 Contato
