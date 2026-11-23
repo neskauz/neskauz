@@ -9,13 +9,18 @@ Sou estudante e trabalho na area de tecnologia e estou em constante evolução, 
 
 Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
+
 ## 🛠️ Tecnologias e ferramentas
 
-- **Desenvolvimento:** HTML, CSS e JavaScript
-- **Cybersecurity:** Kali Linux, fundamentos de segurança da informação e análise de vulnerabilidades
-- **Infraestrutura:** Redes, servidores e suporte técnico
-- **Sistemas:** Windows e Linux
-- **Ferramentas:** Git, GitHub, VS Code e Cisco Packet Tracer
+![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## 🚀 Projetos em destaque
 
