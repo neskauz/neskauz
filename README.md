@@ -11,7 +11,7 @@ Tenho experiência com suporte técnico e infraestrutura, além de buscar consta
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
