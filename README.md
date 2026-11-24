@@ -1,6 +1,6 @@
 ![NeskauZ](./Banner%20tecnol%C3%B3gico%20futurista%20NeskauZ.png)
 
-# Olá! Eu sou Neskauz 👋
+# Olá! Eu sou Nicolas! 👋
 
 Sou estudante e trabalho na área de tecnologia e estou em constante evolução, com interesse em desenvolvimento de software, infraestrutura, redes de computadores e segurança da informação.
 
