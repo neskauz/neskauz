@@ -18,23 +18,6 @@ Tenho experiência com suporte técnico e infraestrutura, além de buscar consta
 ![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neskauz&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de NeskauZ" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neskauz&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens mais utilizadas por NeskauZ" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neskauz&theme=midnight-purple&hide_border=true" alt="Sequência de contribuições de NeskauZ" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neskauz&bg_color=0d1117&color=c4a1ff&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub de NeskauZ" />
-</p>
-
-<sub>Estatísticas e gráficos são fornecidos por serviços externos e podem levar algum tempo para atualizar.</sub>
-
 ## 🚀 Projetos em destaque
 
 ### NETPULSE — Network Monitoring Dashboard
