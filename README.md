@@ -4,7 +4,7 @@
 
 Sou estudante e trabalho na área de tecnologia e estou em constante evolução, com interesse em desenvolvimento de software, infraestrutura, redes de computadores e segurança da informação.
 
-Tenho experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
+Adquirindo experiência com suporte técnico e infraestrutura, além de buscar constantemente novos conhecimentos por meio de estudos e projetos práticos.
 
 ## 🛠️ Stack & Tools
 
